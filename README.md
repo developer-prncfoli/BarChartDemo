@@ -2,7 +2,7 @@
 This is a tutorial example to make a custom view bar chart.
 
 ## Contributors
-- William Victor
+- Victor Williams
 - Prince
 
 ## Contributing
