@@ -19,5 +19,3 @@ developer-prncfoli@gmail.com
 # LICENSE
 
 MIT License. Please refer to [LICENSE](LICENSE) for details.
-
-SPDX-License-Identifier: Apache-2.0
